@@ -1,4 +1,1 @@
-A sample design and some coding for it can be found here:
-
-
-https://zackzamiska.com/player-movement-script-and-sample-level-design/
+A sample design and some coding of a science fiction game I am developing!
